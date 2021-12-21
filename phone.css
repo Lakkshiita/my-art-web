@@ -1,0 +1,50 @@
+nav{
+    flex-direction: column;
+    margin-bottom: 139px;
+}
+.logo img {
+    width: 145px;
+    padding: 0px 128px;
+}
+nav ul {
+    padding: 0px 32px
+}
+.home{
+    height: 161px;
+}
+h1 {
+
+    margin-left: 53px;
+    line-height: 126%;
+    margin-top: -126px;
+    font-size: 2rem;
+}
+h2 {
+    font-size: 39px;
+    line-height: 94%;
+    margin-left: 126px;
+}
+h3 {
+    margin-left: 75px;
+    font-size: 52px;
+    line-height: 134%;
+}
+.main {
+    margin-left: 86px;
+    margin-top: 0rem;
+    font-size: 0.8rem;
+    padding: 23px 84px;
+}
+.look {
+    font-size: 32px;
+    color: yellow;
+      margin-left: 48px;
+    margin-top: 24px;
+}
+span2{
+    font-size: 81px;
+}
+
+img {
+    width: 100%;
+  }
